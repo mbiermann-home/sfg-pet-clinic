@@ -42,9 +42,9 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/mbiermann-home/sfg-pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:mbiermann-home/sfg-pet-clinic.git</developerConnection>
       <tag>sfg-pet-clinic-0.0.2</tag>
-    </scm>
+  </scm>
 
 
 </project>
