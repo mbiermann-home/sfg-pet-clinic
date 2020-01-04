@@ -4,6 +4,7 @@ import java.util.Set;
 
 /**
  * Common interface for services, like CrudRepository
+ *
  * @param <T>
  * @param <ID>
  */
